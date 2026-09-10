@@ -10,7 +10,7 @@ interface User {
 // In-memory sample data store
 const users: User[] = [
   { id: 1, name: "Ace", email: "ace@example.com" },
-  { id: 2, name: "Alan Turing", email: "alan@example.com" },
+  { id: 2, name: "Aira", email: "aira@example.com" },
 ];
 
 export async function listUsers(_req: Request, res: Response): Promise<void> {
