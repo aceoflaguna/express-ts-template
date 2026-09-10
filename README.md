@@ -3,7 +3,7 @@
 A minimal, production-leaning Express API scaffold with TypeScript and nodemon hot-reloading.
 
 ## Stack
-- Express 4
+- Express 5
 - TypeScript 5 (strict mode)
 - nodemon + ts-node (dev hot-reload, no manual rebuilds)
 - helmet, cors, morgan (security/CORS/logging)
